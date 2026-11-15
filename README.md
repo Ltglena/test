@@ -8,4 +8,4 @@
 
 # Логотип:
 
-![Логотип](C:\Users\Elena Surzhikova\Desktop\test\logo.png)
+![Логотип](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
